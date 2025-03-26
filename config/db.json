@@ -1,0 +1,11 @@
+{
+  "payments": [
+    {
+      "id": "f72629be-9d71-405e-b6d0-3e3d68177a49",
+      "creation_date": "2025-03-26T01:15:42.384Z",
+      "merchant_id": "1",
+      "transaction_id": "transaction.id",
+      "receivable_id": "receivable.id"
+    }
+  ]
+}
